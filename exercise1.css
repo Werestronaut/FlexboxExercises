@@ -1,6 +1,7 @@
 /* Use display and flex-grow properties to solve this */
 
 #e1 .container {
+    Display: flex;
 }
 
 #e1 .item {
