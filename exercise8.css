@@ -3,9 +3,14 @@
 #e8 .container {
     height: 200px;
     width: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
 }
 
 #e8 .item {
     height: 60px;
     width: 60px;
+    
 }
