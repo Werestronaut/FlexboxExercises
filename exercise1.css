@@ -5,4 +5,5 @@
 }
 
 #e1 .item {
+    flex-grow: 1;
 }
